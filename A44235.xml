@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new prophecy, or, A prophetical discourse of the blazing-star that appeared April the 23d, 1677 being a full account of the events &amp; sad effects thereof which threaten these nations of England, Scotland, &amp;c., as likewise to France, Holland, &amp;c. / John Holwell ...</title>
+            <author>Holwell, John, 1649-1686?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44235</idno>
+            <idno type="STC">Wing H2518</idno>
+            <idno type="STC">ESTC R4258</idno>
+            <idno type="EEBO-CITATION">13469533</idno>
+            <idno type="OCLC">ocm 13469533</idno>
+            <idno type="VID">99665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 790:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new prophecy, or, A prophetical discourse of the blazing-star that appeared April the 23d, 1677 being a full account of the events &amp; sad effects thereof which threaten these nations of England, Scotland, &amp;c., as likewise to France, Holland, &amp;c. / John Holwell ...</title>
+                  <author>Holwell, John, 1649-1686?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the request of the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99665:1"/>
+            <!-- PDF PAGE 10 -->
+            <p>A NEW PROPHECY: OR, A Prophetical Diſcourſe OF THE BLAZING-STAR, That Appeared, <hi>April</hi> the 23d. 1677. Being a Full ACCOUNT, OF THE Events, &amp; Sad Effects thereof, Which Threaten theſe NATIONS of <hi>England, Scotland,</hi> &amp;c. As likewiſe, to FRANCE, HOLLAND, &amp;c.</p>
+            <p>
+               <hi>The</hi> Reader <hi>is deſired to take notice, That this</hi> Prophecy <hi>was writ Two Years ago, as will be Atteſted by ſeveral Perſons upon Oath, and by me the Author and Obſerver, (Living in</hi> Spittle-Fields, London)</p>
+            <p>
+               <hi>Iohn Holwell,</hi> Philomath.</p>
+            <p>
+               <hi>LONDON,</hi> Printed at the Requeſt of the AUTHOR. 1679.</p>
+            <pb facs="tcp:99665:2"/>
+            <!-- PDF PAGE 11 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:99665:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>A New Prophecy: OR, A Prophetical Diſcourſe OF THE BLAZING STAR, That Appeared <hi>April</hi> the 23d. 1677, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MAny are the opinions of the Ancients; but among the reſt, the Opinion of <hi>Ariſto<g ref="char:EOLhyphen"/>tle</hi> is the moſt followed: Concerning the matter and generation of a <hi>Comet</hi> or new Stars, <hi>viz.</hi> That it is compoſed of matter that is exhaled from the Earth, and that it is ſet on Fire by the exceſſive heat of the place where it reſteth; and that makes it that it, doth continue longer ſometimes than other, according to plenty of the matter whereof it conſiſts: but by thoſe Men, I do deſire to be ſatisfied of theſe Four things.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> How and by what means exhaled vapors can put themſelves into ſuch forms or figures as they uſually appear in.</item>
+               <item>
+                  <hi>Secondly,</hi> How their motion can be ſometimes regular, and ſometimes irregular; ſometimes direct, and ſometimes retrograde; and ſometimes fixed, as that <hi>Comet</hi> was, that was ſeen 1572.</item>
+               <item>
+                  <hi>Thirdly,</hi> How and by what means they do appear, ſometimes with long Tails, and ſharp, very buſhy; and others appear with no Tails, or if any, that very ſmall.</item>
+               <item>
+                  <hi>Fourthly,</hi> Whether it is poſſible for the matter which is exhaled from the Earth, to form a body that is bigger than the Earth it ſelf, at that Star was, that was ſeen 1572. whom <hi>Tycho</hi> obſerved; or that which was ſeen 146. Years before the coming of Chriſt, whereof that famous <hi>Seneca</hi> ſpeaks of, to be bigger than the Sun it ſelf, which is 333 times bigger than the Earth it ſelf; it may be required from whence all this Matter was exhaled, to make ſuch a vaſt body as the Sun is.</item>
+            </list>
+            <p>
+               <hi>Paracelſus,</hi> that famous <hi>Phyloſopher,</hi> is of another Opinion; and indeed more rational; that is this, that <hi>Comets</hi> or new Stars are compoſed by the Spirits of the Air, by the Com<g ref="char:EOLhyphen"/>mandement of the Eternal God, to forewarn this Evil World, that they might amend their Lives; other ways, they may be ſure to have the Judgment by them ſignified. <hi>For the Spirits or Angels</hi> (ſaith he) <hi>well knowing, that ſuch things ſhall moſt certainly come to paſs; and they doth attract the</hi> Comet <hi>a long thorow the Air, either higher or lower; and in ſuch Parts of the Heaven, that we Mortals may the more Zealouſly behold it, and be the more remarkably poſſeſſed with its Significations, and ſo to give Thanks unto God, for not ſending of a Judgment before he hath given them warning.</hi>
+            </p>
+            <p>Theſe, or to this effect, are the Words of <hi>Paracelſus,</hi> which unto me doth ſeem to be moſt rational.</p>
+            <pb n="4" facs="tcp:99665:3"/>
+            <!-- PDF PAGE 12 -->
+            <p>Theſe may ſerve to ſatisfie all thoſe, that doth think, that <hi>Comets</hi> are natural; and that they came for no other end, than for Men only to look at.</p>
+            <p>Now, I ſhall give you a deſcription of the <hi>Comet</hi> lately ſeen; It was an <hi>Oriental Comet.</hi> It had its Head depreſſed; his Tail did point unto the <hi>Zinoth;</hi> but did a little incline to the <hi>North-Star:</hi> His Tail was ſomewhat large; but at the end, it was contracted to a point, and the very end of the Tail, did ſeem to be hooked like unto a <hi>Sickle.</hi>
+            </p>
+            <p>As to his place, it was near the upper-<hi>Star</hi> of the <hi>Triangle;</hi> and the left Foot of <hi>An<g ref="char:EOLhyphen"/>dromada;</hi> which falls in <hi>Taurus,</hi> about the 17th. or 18th. degrees; having near Twenty Degrees of <hi>North Latitude,</hi> from the <hi>Ecliptick:</hi> They write, that it had its Motion direct near two degrees in a day; but I could not ſee it above one; And therefore, could not obſerve its motion my ſelf. When it firſt roſe, it was of a martial-Colour; but as it did riſe higher, it did ſeem to be of a more <hi>Lunar</hi>-Colour; but I conceive, that was by rea<g ref="char:EOLhyphen"/>ſon that day came on a pace, and took the Colour away.</p>
+            <p>It had its firſt Appearance in or about the middle of <hi>Aries,</hi> and had its motion out of <hi>Aries</hi> into <hi>Taurus.</hi> And I do believe, that it ended in <hi>Gemini.</hi> It was as big as a Star of the firſt <hi>Magnitude.</hi> The particular relation, this <hi>Comet</hi> hath to divers Kingdoms and Countrys, Emperors or Kings, is as followeth:</p>
+            <p>Under <hi>Aries</hi> the firſt Sign that this Comet did appear in, are <hi>England, France, Germany, Burgundy,</hi> and <hi>Denmark,</hi> with a many more places: but theſe being moſt concerned, and the head Cities thereof, I only mention them.</p>
+            <p>Under <hi>Taurus</hi> (the place of this Comet, when I ſaw it) are <hi>Ruſſia, Swedeland, Lorraigne, Campania, Holvetia, Franconia, Ireland,</hi> with a many Cities.</p>
+            <p>Under <hi>Gemini,</hi> (the place of the Comet, where I do believe it did end) are <hi>Sardinia, Lombardy,</hi> part of <hi>England, Flanders, Brabant,</hi> the <hi>Dukedome</hi> of <hi>Wertenburgh, Armenia,</hi> with a many Cities in thoſe <hi>Countreys: all theſe places ſhall find great Changes.</hi>
+            </p>
+            <p>Authors ſay, if a Comet, of a Martial Colour, appear in the <hi>Eaſt,</hi> or <hi>North-Eaſt</hi> part of Hea<g ref="char:EOLhyphen"/>ven with his Head depreſſed (as this was in all reſpects) is the Fore-runner of Wars, Houſe-burnings, Fire and Sword, Plague and Famine Cauſed by Wars.</p>
+            <p>A Comet in <hi>Aries,</hi> is the Fore-runner of great War-like preparations, the ſhedding of much Blood, the death or deſtruction of ſome great Prince or Princes; and muſt be thoſe Princes whoſe death doth cauſe a Change in the Government wherein they doth live; it doth ſhew the Vulgar men to be Male contented, and inclinable to rebellion, exalting themſelves: it alſo doth ſignine Invaſion, little mercy ſhewn by the Conqueror.</p>
+            <p>If a Comet appear in <hi>Taurus,</hi> it is the Fore-runner of much evil for to befall Man-kind, and a leſſening of their Eſtates; they will rebel one againſt the other; it ſhews the death of a Great King or Prince, with an Alteration of Laws and Cuſtoms: It denoteth the deſtruction of great Cattle, as Horſes, or Cows and Oxen.</p>
+            <p>A Comet appearing in <hi>Gemini,</hi> is the Fore-runner of men, being given to all manner of bad Courſes, given to ſtrife and contention, taking great delight therein; it denotes that abundance of young Men and Children to dye by ſickneſs.</p>
+            <p>Sir, From what hath been ſaid, I do believe, that this Comet is the Fore-runner of many e<g ref="char:EOLhyphen"/>vils, to befall this poor place of <hi>England,</hi> and that in a ſhort time. I pray God bleſs <hi>England,</hi> from being once more invaded by the Scots; for if they do, they will find ſuch willingneſs in the Engliſh to help them, that it may produce a moſt bloody War; but they ſhall not eſta<g ref="char:EOLhyphen"/>bliſh their Government here. The firſt ſhew of this Change, or firſt appearance in a War-like manner, will be about the latter end of Fifty Six or Fifty Seven degrees; I pray God bleſs this City of <hi>London,</hi> from being deſtroyed once more by Fire by the hands of an Enemy. In ſhort, There hath not been greater Changes in no Nation nor City, than we fear, will be in this Iſland of <hi>Brittaine,</hi> and City of <hi>London,</hi> ere Seven years paſs over our heads.</p>
+            <p>
+               <hi>France,</hi> great are the Changes that ſhall befall thee, a mercyleſs Enemy ſhall deſtroy great part of thy fruitful Country, and thy Kingdome muſt be given to a Prince bordering upon thy Territories.</p>
+            <p>
+               <hi>Holland,</hi> prepare thy ſelf for a Change, for thy States are not to be much longer States.</p>
+            <p>The Ancients Write, that, that place is moſt Concerned, where the Tayle of the Comet doth point: the Tayle of this Comet pointed to the <hi>Zinoth;</hi> therefore it muſt ſignifie thoſe places where this Comet was ſeen, for it cannot be ſaid for to point to any place but their own: Farewel.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
